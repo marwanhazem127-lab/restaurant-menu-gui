@@ -6,17 +6,17 @@ A simple desktop application built with **Python** and **Tkinter** that displays
 
 ## 📖 Overview
 
-This project is a simple Restaurant Menu application developed using Python and Tkinter. It demonstrates the fundamentals of GUI development, widget positioning, and basic Object-Oriented Programming (OOP).
+This project demonstrates the fundamentals of GUI development using Python's Tkinter library. It displays a simple restaurant menu in a clean desktop window and is intended as a beginner-friendly project for learning graphical user interface development.
 
 ---
 
 ## ✨ Features
 
-- Graphical User Interface (GUI)
-- Simple and clean layout
-- Displays restaurant menu items with prices
-- Easy to understand and customize
-- Beginner-friendly Python project
+- Simple Graphical User Interface (GUI)
+- Built with Python and Tkinter
+- Displays restaurant menu items and prices
+- Clean and beginner-friendly design
+- Easy to modify and expand
 
 ---
 
@@ -33,9 +33,9 @@ This project is a simple Restaurant Menu application developed using Python and 
 restaurant-menu-gui/
 │── simple menu.py
 │── simpel menu v3.py
-│── download.png
 │── 0000.png
-│── screenshot.jpeg
+│── download.png
+│── screenshot.png.jpeg
 └── README.md
 ```
 
@@ -46,7 +46,7 @@ restaurant-menu-gui/
 Clone the repository:
 
 ```bash
-git clone https://github.com/marwanhazem127@gmail.com/restaurant-menu-gui.git
+git clone https://github.com/marwanhazem127-lab/restaurant-menu-gui.git
 ```
 
 Open the project folder.
@@ -67,17 +67,17 @@ python "simpel menu v3.py"
 
 ## 📸 Screenshot
 
-![Restaurant Menu](screenshot.jpeg)
+![Restaurant Menu](screenshot.png.jpeg)
 
 ---
 
 ## 🎯 Learning Objectives
 
-This project helped practice:
+This project was developed to practice:
 
 - Python Programming
 - Tkinter GUI Development
-- Object-Oriented Programming (OOP)
+- Basic Object-Oriented Programming (OOP)
 - Creating Desktop Applications
 - Working with Labels and Images
 
@@ -87,8 +87,10 @@ This project helped practice:
 
 **Marwan Hazem**
 
+GitHub: https://github.com/marwanhazem127-lab
+
 ---
 
 ## 📄 License
 
-This project was created for educational purposes.
+This project is intended for educational purposes only.
