@@ -1,51 +1,94 @@
 # 🍽️ Restaurant Menu GUI
 
-A simple desktop application built with **Python** and **Tkinter** that displays a restaurant menu using a graphical user interface.
+A simple desktop application built with **Python** and **Tkinter** that displays a restaurant menu through a graphical user interface (GUI).
 
-## Features
+---
 
-- Simple and clean GUI
-- Built with Tkinter
-- Object-Oriented Programming (OOP)
-- Dynamic menu generation
-- Easy to customize
+## 📖 Overview
 
-## Technologies Used
+This project is a simple Restaurant Menu application developed using Python and Tkinter. It demonstrates the fundamentals of GUI development, widget positioning, and basic Object-Oriented Programming (OOP).
+
+---
+
+## ✨ Features
+
+- Graphical User Interface (GUI)
+- Simple and clean layout
+- Displays restaurant menu items with prices
+- Easy to understand and customize
+- Beginner-friendly Python project
+
+---
+
+## 🛠 Technologies Used
 
 - Python 3
 - Tkinter
 
-## Project Structure
+---
+
+## 📂 Project Structure
 
 ```
-.
-├── simple menu.py
-├── simpel menu v3.py
-├── 0000.png
-├── download.png
+restaurant-menu-gui/
+│── simple menu.py
+│── simpel menu v3.py
+│── download.png
+│── 0000.png
+│── screenshot.jpeg
 └── README.md
 ```
 
-## How to Run
+---
 
-1. Clone the repository
+## 🚀 Installation
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/restaurant-menu-gui.git
+git clone https://github.com/marwanhazem127@gmail.com/restaurant-menu-gui.git
 ```
 
-2. Open the project folder
+Open the project folder.
 
-3. Run
+Run the application:
+
+```bash
+python "simple menu.py"
+```
+
+or
 
 ```bash
 python "simpel menu v3.py"
 ```
 
-## Screenshot
+---
 
-(Add a screenshot here after running the project.)
+## 📸 Screenshot
 
-## Author
+![Restaurant Menu](screenshot.jpeg)
 
-Marwan Hazem
+---
+
+## 🎯 Learning Objectives
+
+This project helped practice:
+
+- Python Programming
+- Tkinter GUI Development
+- Object-Oriented Programming (OOP)
+- Creating Desktop Applications
+- Working with Labels and Images
+
+---
+
+## 👨‍💻 Author
+
+**Marwan Hazem**
+
+---
+
+## 📄 License
+
+This project was created for educational purposes.
