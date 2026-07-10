@@ -6,17 +6,18 @@ A simple desktop application built with **Python** and **Tkinter** that displays
 
 ## 📖 Overview
 
-This project demonstrates the fundamentals of GUI development using Python's Tkinter library. It displays a simple restaurant menu in a clean desktop window and is intended as a beginner-friendly project for learning graphical user interface development.
+Restaurant Menu GUI is a beginner-friendly desktop application developed using **Python** and **Tkinter**. The project demonstrates the basics of GUI development, widget organization, and simple desktop application design. It provides an interactive restaurant menu with a clean and easy-to-use interface.
 
 ---
 
 ## ✨ Features
 
-- Simple Graphical User Interface (GUI)
+- Graphical User Interface (GUI)
 - Built with Python and Tkinter
 - Displays restaurant menu items and prices
-- Clean and beginner-friendly design
-- Easy to modify and expand
+- Simple and user-friendly design
+- Easy to customize and expand
+- Beginner-friendly project
 
 ---
 
@@ -29,12 +30,12 @@ This project demonstrates the fundamentals of GUI development using Python's Tki
 
 ## 📂 Project Structure
 
-```
+```text
 restaurant-menu-gui/
 │── simple menu.py
 │── simpel menu v3.py
-│── 0000.png
 │── download.png
+│── 0000.png
 │── screenshot.png.jpeg
 └── README.md
 ```
@@ -48,8 +49,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/marwanhazem127-lab/restaurant-menu-gui.git
 ```
-
-Open the project folder.
 
 Run the application:
 
@@ -71,26 +70,16 @@ python "simpel menu v3.py"
 
 ---
 
-## 🎯 Learning Objectives
-
-This project was developed to practice:
-
-- Python Programming
-- Tkinter GUI Development
-- Basic Object-Oriented Programming (OOP)
-- Creating Desktop Applications
-- Working with Labels and Images
-
----
-
 ## 👨‍💻 Authors
 
-**Marwan Hazem** mostafa hashem zayed**
+- **Marwan Hazem**
+  GitHub: https://github.com/marwanhazem127-lab
 
-GitHub: https://github.com/marwanhazem127-lab
+- **Mostafa Hashem Zayed**
+  GitHub: https://github.com/mostafa-hashem-zayed
 
 ---
 
 ## 📄 License
 
-This project is intended for educational purposes only.
+This project was created for educational purposes.
