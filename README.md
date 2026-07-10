@@ -83,9 +83,9 @@ This project was developed to practice:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Marwan Hazem**
+**Marwan Hazem** mostafa hashem zayed**
 
 GitHub: https://github.com/marwanhazem127-lab
 
